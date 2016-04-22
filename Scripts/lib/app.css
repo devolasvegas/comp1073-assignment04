@@ -1,0 +1,10 @@
+/*  app.css  created by Devon Daviau for
+devondaviau-comp1073-assignment01.azurewebsites.net */
+.btn-border {
+    border: 1px solid black;
+}
+
+#svg-logo {
+    display: inline-block;
+    height: 1.75em;
+}

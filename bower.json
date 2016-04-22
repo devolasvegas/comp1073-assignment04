@@ -1,0 +1,26 @@
+{
+  "name": "COMP1073-Assignment04",
+  "authors": [
+    "Devon Daviau <devondaviau@yahoo.ca>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "EaselJS": "easeljs#^0.8.2",
+    "tween.js": "tweenjs#^16.3.4",
+    "preloadjs": "*",
+    "PreloadJS": "^0.6.2",
+    "TweenJS": "^0.6.2",
+    "SoundJS": "^0.6.2"
+  }
+}
